@@ -1,0 +1,23 @@
+{
+  "heading": "Utgifterna för utbildning ökar i alla EU-länder",
+  "subheading": "Offentliga utgifter för militärt försvar i procent av BNP i länder i Europeiska unionen 2020",
+  "legend1": "Ingen data tillgänglig",
+  "tooltip1": "av BNP",
+  "textSourceDescription": "Källa",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Notera",
+  "textNote": "Offentliga utgifter efter COFOG (UNSD-klassificering av statliga funktioner, replikerad i ESA2010) funktion och typ.",
+  "textDataAccess": "Få åtkomst till data",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Klicka för mer info",
+  "extraInfoText_AL": "Kandidatland sedan 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Kandidatland sedan 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Kandidatland sedan 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Kandidatland sedan 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Kandidatland sedan 2003",
+  "extraInfoLink_UA": ""
+}

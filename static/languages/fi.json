@@ -1,0 +1,23 @@
+{
+  "heading": "Koulutusmenot kasvavat kaikissa EU-maissa",
+  "subheading": "Julkiset menot sotilaalliseen puolustukseen suhteessa BKT:hen Euroopan unionin maissa vuonna 2020",
+  "legend1": "Tietoja ei ole saatavilla",
+  "tooltip1": "BKT:sta",
+  "textSourceDescription": "Lähde",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Merkintä",
+  "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
+  "textDataAccess": "Käytä tietoja",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi",
+  "textCountryClick": "Napsauta saadaksesi lisätietoja",
+  "extraInfoText_AL": "Ehdokasmaa vuodesta 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Ehdokasmaa vuodesta 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Ehdokasmaa vuodesta 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Ehdokasmaa vuodesta 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Ehdokasmaa vuodesta 2003",
+  "extraInfoLink_UA": ""
+}

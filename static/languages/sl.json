@@ -1,0 +1,23 @@
+{
+  "heading": "Izdatki za izobraževanje so se povečali v vseh državah EU",
+  "subheading": "Državni izdatki za vojaško obrambo kot odstotek BDP v državah Evropske unije leta 2020",
+  "legend1": "Podatkov ni na voljo",
+  "tooltip1": "BDP",
+  "textSourceDescription": "Vir",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Opomba",
+  "textNote": "Državni izdatki po funkciji in vrsti COFOG (UNSD klasifikacija funkcij vlade, ponovljena v ESR 2010).",
+  "textDataAccess": "Dostop do podatkov",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Kliknite za več informacij",
+  "extraInfoText_AL": "Država kandidatka od leta 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Država kandidatka od leta 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Država kandidatka od leta 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Država kandidatka od leta 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Država kandidatka od leta 2003",
+  "extraInfoLink_UA": ""
+}

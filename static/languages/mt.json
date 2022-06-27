@@ -1,0 +1,23 @@
+{
+  "heading": "L-infiq fl-edukazzjoni jiżdied fil-pajjiżi kollha tal-UE",
+  "subheading": "In-nefqa ġenerali tal-gvern fuq id-difiża militari bħala perċentwal tal-PGD fil-pajjiżi tal-Unjoni Ewropea fl-2020",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "tal-PGD",
+  "textSourceDescription": "Sors",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Nota",
+  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textDataAccess": "Aċċessa għad-data",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
+  "extraInfoText_AL": "Pajjiż kandidat mill-2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Pajjiż kandidat mill-2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Pajjiż kandidat mill-2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Pajjiż kandidat mill-2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Pajjiż kandidat mill-2003",
+  "extraInfoLink_UA": ""
+}

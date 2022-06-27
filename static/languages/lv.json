@@ -1,0 +1,23 @@
+{
+  "heading": "Izglītības izdevumi visās ES valstīs",
+  "subheading": "Vispārējie valdības izdevumi militārajai aizsardzībai procentos no IKP Eiropas Savienības valstīs 2020. gadā",
+  "legend1": "Nav pieejami dati",
+  "tooltip1": "no IKP",
+  "textSourceDescription": "Avots",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Piezīme",
+  "textNote": "Valdības izdevumi pēc COFOG (UNSD valdības funkciju klasifikācija, replicēta EKS2010) funkcijas un veida.",
+  "textDataAccess": "Piekļūstiet datiem",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
+  "extraInfoText_AL": "Kandidātvalsts kopš 2003. gada",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Kandidātvalsts kopš 2010. gada",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Kandidātvalsts kopš 2005. gada",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Kandidātvalsts kopš 2003. gada",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Kandidātvalsts kopš 2003. gada",
+  "extraInfoLink_UA": ""
+}

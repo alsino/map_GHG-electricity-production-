@@ -1,0 +1,23 @@
+{
+  "heading": "Az oktatási kiadások az EU összes országában emelkednek",
+  "subheading": "Az államháztartás katonai védelemre fordított kiadásai a GDP százalékában az Európai Unió országaiban 2020-ban",
+  "legend1": "Nincs elérhető adat",
+  "tooltip1": "a GDP",
+  "textSourceDescription": "Forrás",
+  "textSource": "Eurostat",
+  "textNoteDescription": "jegyzet",
+  "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
+  "textDataAccess": "Hozzáférés az adatokhoz",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Kattintson további információkért",
+  "extraInfoText_AL": "2003 óta tagjelölt ország",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "2010 óta tagjelölt ország",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "2005 óta tagjelölt ország",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "2003 óta tagjelölt ország",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "2003 óta tagjelölt ország",
+  "extraInfoLink_UA": ""
+}

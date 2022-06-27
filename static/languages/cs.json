@@ -1,0 +1,23 @@
+{
+  "heading": "Výdaje na vzdělávání ve všech zemích EU",
+  "subheading": "Vládní výdaje na vojenskou obranu jako procento HDP v zemích Evropské unie v roce 2020",
+  "legend1": "Nejsou k dispozici žádné údaje",
+  "tooltip1": "HDP",
+  "textSourceDescription": "Zdroj",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Poznámka",
+  "textNote": "Vládní výdaje podle funkce a typu COFOG (klasifikace funkcí vlády UNSD, replikovaná v ESA2010).",
+  "textDataAccess": "Přístup k datům",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs",
+  "textCountryClick": "Klikněte pro více informací",
+  "extraInfoText_AL": "Kandidátská země od roku 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Kandidátská země od roku 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Kandidátská země od roku 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Kandidátská země od roku 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Kandidátská země od roku 2003",
+  "extraInfoLink_UA": ""
+}

@@ -1,0 +1,23 @@
+{
+  "heading": "Potrošnja na obrazovanje raste u svim zemljama EU",
+  "subheading": "Rashodi opće države za vojnu obranu kao postotak BDP-a u zemljama Europske unije u 2020.",
+  "legend1": "Nema dostupnih podataka",
+  "tooltip1": "BDP-a",
+  "textSourceDescription": "Izvor",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Bilješka",
+  "textNote": "Državni rashodi prema funkciji i vrsti COFOG (UNSD klasifikacija funkcija vlade, replicirana u ESA2010).",
+  "textDataAccess": "Pristup podacima",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr",
+  "textCountryClick": "Kliknite za više informacija",
+  "extraInfoText_AL": "Država kandidat od 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Država kandidat od 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Država kandidat od 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Država kandidat od 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Država kandidat od 2003",
+  "extraInfoLink_UA": ""
+}

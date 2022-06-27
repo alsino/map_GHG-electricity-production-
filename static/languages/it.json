@@ -1,0 +1,23 @@
+{
+  "heading": "Spesa per l'istruzione in aumento in tutti i paesi dell'UE",
+  "subheading": "Spesa delle amministrazioni pubbliche per la difesa militare in percentuale del PIL nei paesi dell'Unione Europea nel 2020",
+  "legend1": "Nessun dato disponibile",
+  "tooltip1": "del PIL",
+  "textSourceDescription": "Fonte",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Nota",
+  "textNote": "Spesa pubblica per funzione e tipologia COFOG (classificazione UNSD delle funzioni di governo, replicata in ESA2010).",
+  "textDataAccess": "Accedi ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Clicca per maggiori informazioni",
+  "extraInfoText_AL": "Paese candidato dal 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Paese candidato dal 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Paese candidato dal 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Paese candidato dal 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Paese candidato dal 2003",
+  "extraInfoLink_UA": ""
+}

@@ -1,0 +1,23 @@
+{
+  "heading": "Bildungsausgaben in allen EU-Ländern gestiegen",
+  "subheading": "Staatliche Verteidigungsausgaben in Prozent des BIP in den Ländern der Europäischen Union im Jahr 2020",
+  "legend1": "Keine Daten verfügbar",
+  "tooltip1": "des BIP",
+  "textSourceDescription": "Quelle",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Notiz",
+  "textNote": "Staatsausgaben nach Funktion und Art der COFOG (UNSD-Klassifikation der Staatsfunktionen, repliziert im ESVG 2010).",
+  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Klicken Sie für weitere Informationen",
+  "extraInfoText_AL": "Kandidatenland seit 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "Kandidatenland seit 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "Kandidatenland seit 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "Kandidatenland seit 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "Kandidatenland seit 2003",
+  "extraInfoLink_UA": ""
+}

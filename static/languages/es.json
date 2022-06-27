@@ -1,0 +1,23 @@
+{
+  "heading": "El gasto en educación aumenta en todos los países de la UE",
+  "subheading": "Gasto del gobierno general en defensa militar como porcentaje del PIB en países de la Unión Europea en 2020",
+  "legend1": "Datos no disponibles",
+  "tooltip1": "del PIB",
+  "textSourceDescription": "Fuente",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Nota",
+  "textNote": "Gasto público por función y tipo de COFOG (clasificación de funciones de gobierno de la UNSD, replicada en ESA2010).",
+  "textDataAccess": "Accede a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "textCountryClick": "Haga clic para obtener más información",
+  "extraInfoText_AL": "País candidato desde 2003",
+  "extraInfoLink_AL": "",
+  "extraInfoText_ME": "País candidato desde 2010",
+  "extraInfoLink_ME": "",
+  "extraInfoText_MK": "País candidato desde 2005",
+  "extraInfoLink_MK": "",
+  "extraInfoText_RS": "País candidato desde 2003",
+  "extraInfoLink_RS": "",
+  "extraInfoText_UA": "País candidato desde 2003",
+  "extraInfoLink_UA": ""
+}
